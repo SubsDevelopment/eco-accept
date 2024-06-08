@@ -1,1 +1,2 @@
-# eco-accept
+# Economy System Of SubsMusic ( Rules, Informations )
+
